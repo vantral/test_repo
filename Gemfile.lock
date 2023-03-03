@@ -8,7 +8,7 @@ GEM
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
-    eventmachine (1.2.7)
+    eventmachine (1.2.8)
     ffi (1.15.5)
     ffi (1.15.5-x64-unknown)
     forwardable-extended (2.6.0)
